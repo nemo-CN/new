@@ -25,6 +25,7 @@
       <list>
         <option value="$MODULE_DIR$/HPAdmin/templates" />
         <option value="$MODULE_DIR$/kindeditor/templates" />
+        <option value="$MODULE_DIR$/HomePage/templates" />
       </list>
     </option>
   </component>
